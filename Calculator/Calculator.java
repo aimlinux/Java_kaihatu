@@ -3,7 +3,7 @@
 
 
 
-package training_java; //上のディレクトリを指定する必要がある
+package Calculator; //上のディレクトリを指定する必要がある
 
 import java.util.Scanner;
 
