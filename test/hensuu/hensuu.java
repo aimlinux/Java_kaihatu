@@ -26,7 +26,7 @@ public class hensuu {
 
         var_a = 1;
         var_b = 2;
-        var_bool = (var_a >= var_b);
+        var_bool = var_a >= var_b;
         System.out.println("変数 var_a: " + var_a);
         System.out.println("変数 var_b: " + var_b);
         System.out.println("変数 var_bool (var_a >= var_b): " + var_bool);
